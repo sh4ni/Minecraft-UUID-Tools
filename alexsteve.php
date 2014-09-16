@@ -1,7 +1,7 @@
+<?php
 //
 // (c) 2014 by sh4ni.de & catnet.de
 
-<?php
 function hashCode($s) {
 	$s = str_replace( "-", "", trim($s) );
 	for( $i=0; $i<4; $i++){
