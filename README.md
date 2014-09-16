@@ -1,7 +1,7 @@
 Minecraft-UUIC-Tools
 ====================
 
-alexsteve.php:
-Checks if you are Alex or Steve.
-Useage: alexsteve.php?name=<NAME> or alexsteve.php?uuid=<UUID>
+alexsteve.php:<br>
+Checks if you are Alex or Steve.<br>
+Useage: alexsteve.php?name=&lt;NAME&gt; or alexsteve.php?uuid=&lt;UUID&gt;<br>
 Sample: www.sh4ni.de/alexsteve.php?name=Dinnerbone
