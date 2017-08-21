@@ -1,4 +1,4 @@
-Minecraft-UUIC-Tools
+Minecraft-UUID-Tools
 ====================
 
 <p>alexsteve.php:<br>
